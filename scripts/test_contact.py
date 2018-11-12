@@ -14,7 +14,7 @@ class TestContact:
 
     def test_add4(self):
         print('hello4')
-        assert 0
+        assert 1
 
 
 
